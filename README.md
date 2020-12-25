@@ -1,10 +1,10 @@
-#asciit
+## asciit
 A program to convert your image into its much prettier ascii-form.
 
 before ↓
 
 ![first pic](test_image.png)
-booo
+
 
 after ↓
 
@@ -80,4 +80,4 @@ after ↓
 ```
 in all its glory
 
-#Works best on high contrast pictures.  
+# Works best on high contrast pictures.  
