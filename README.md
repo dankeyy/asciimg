@@ -1,4 +1,4 @@
-## asciit
+# asciimg
 A program to convert your image into its much prettier ascii-form.
 
 before ↓
@@ -80,4 +80,4 @@ after ↓
 ```
 in all its glory
 
-# Works best on high contrast pictures.  
+#### Works best on high contrast images.  
