@@ -5,7 +5,7 @@ from os import linesep
 
 GSCALE = "@%#*+=-:. "
 WIDTH = 100
-SCALE = 0.5
+SCALE = 0.45
 
 
 def resized(img):
